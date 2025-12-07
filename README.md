@@ -1,0 +1,53 @@
+# Tom Odell – Another Love
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:00.00] ♪♪ℳ𝓊𝓈𝒾𝒸♪♪
+[00:20.72] I wanna take you somewhere so you know I care
+[00:24.99] But it's so cold, and I don't know where
+[00:29.23] I brought you daffodils in a pretty string
+[00:33.15] But they won't flower like they did last spring
+[00:56.65] 
+[00:41.34] And I wanna kiss you, make you feel alright
+[00:45.78] I'm just so tired to share my nights
+[00:49.73] I wanna cry and I wanna love
+[00:53.72] But all my tears have been used up
+[01:10.72] 
+[01:01.44] On another love, another love
+[01:05.90] All my tears have been used up
+[01:10.08] On another love, another love
+[01:14.47] All my tears have been used up
+[01:18.12] On another love, another love
+[01:22.63] All my tears have been used up
+[01:30.42] Oh, ooh
+[01:36.86] ♪♪ℳ𝓊𝓈𝒾𝒸♪♪
+[01:54.11] And if somebody hurts you, I wanna fight
+[01:59.09] But my hands been broken, one too many times
+[02:02.71] So I'll use my voice, I'll be so fucking rude
+[02:07.53] Words, they always win, but I know I'll lose
+[02:10.77] And I'd sing a song, that'd be just ours
+[02:14.55] But I sang 'em all to another heart
+[02:18.73] And I wanna cry I wanna learn to love
+[02:22.62] But all my tears have been used up
+[02:26.38] On another love, another love
+[02:30.40] All my tears have been used up
+[02:33.61] On another love, another love
+[02:38.14] All my tears have been used up
+[02:41.86] On another love, another love
+[02:46.36] All my tears have been used up
+[02:52.19] Oh, oh, oh
+[02:59.61] ♪♪ℳ𝓊𝓈𝒾𝒸♪♪
+[03:08.02] (Oh, need a love, now, my heart is thinking of)
+[03:13.18] I wanna sing a song, that'd be just ours
+[03:17.18] But I sang 'em all to another heart
+[03:20.86] And I wanna cry, I wanna fall in love
+[03:24.83] But all my tears have been used up
+[03:28.53] On another love, another love
+[03:32.14] All my tears have been used up
+[03:36.37] On another love, another love
+[03:40.35] All my tears have been used up
+[03:44.09] On another love, another love
+[03:48.38] All my tears have been used up
+[03:55.43] Oh, oh
+```
