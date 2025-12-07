@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Another Love",
+  "base_artist": "Tom Odell",
+  "createdAt": "2025-12-07T11:46:35.444794Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Just Another Love",
+      "artist": "Tanya Tucker",
+      "has_synced": true,
+      "path": "select/01_Just_Another_Love_Tanya_Tucker.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Was It Just Another Love Affair",
+      "artist": "Eurythmics",
+      "has_synced": false,
+      "path": "select/02_Was_It_Just_Another_Love_Affair_Eurythmics.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Was It Just Another Love Affair (2005)",
+      "artist": "Eurythmics",
+      "has_synced": false,
+      "path": "select/03_Was_It_Just_Another_Love_Affair_(2005)_Eurythmics.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Just Another Love Song",
+      "artist": "Suicidal Tendencies",
+      "has_synced": true,
+      "path": "select/04_Just_Another_Love_Song_Suicidal_Tendencies.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Another Love Song",
+      "artist": "Stefanie Heinzmann",
+      "has_synced": true,
+      "path": "select/05_Another_Love_Song_Stefanie_Heinzmann.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Another Love Song",
+      "artist": "Queens of the Stone Age",
+      "has_synced": true,
+      "path": "select/06_Another_Love_Song_Queens_of_the_Stone_Age.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Not Another Love Song",
+      "artist": "Billie Myers",
+      "has_synced": false,
+      "path": "select/07_Not_Another_Love_Song_Billie_Myers.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Another Love Song",
+      "artist": "Six by Seven",
+      "has_synced": false,
+      "path": "select/08_Another_Love_Song_Six_by_Seven.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Don't Find Another Love",
+      "artist": "Tegan and Sara",
+      "has_synced": true,
+      "path": "select/09_Don't_Find_Another_Love_Tegan_and_Sara.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Another Love",
+      "artist": "Tom Odell",
+      "has_synced": true,
+      "path": "select/10_Another_Love_Tom_Odell.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Another Love (Zwette Remix)",
+      "artist": "Tom Odell",
+      "has_synced": true,
+      "path": "select/11_Another_Love_(Zwette_Remix)_Tom_Odell.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "There Goes Another Love Song",
+      "artist": "The Outlaws",
+      "has_synced": false,
+      "path": "select/12_There_Goes_Another_Love_Song_The_Outlaws.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "You'll Never Find Another Love Like Mine",
+      "artist": "Lou Rawls",
+      "has_synced": false,
+      "path": "select/13_You'll_Never_Find_Another_Love_Like_Mine_Lou_Rawls.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Another Love Song",
+      "artist": "Insane Clown Posse",
+      "has_synced": true,
+      "path": "select/14_Another_Love_Song_Insane_Clown_Posse.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "There Goes Another Love Song",
+      "artist": "Outlaws",
+      "has_synced": false,
+      "path": "select/15_There_Goes_Another_Love_Song_Outlaws.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Another Love",
+      "artist": "Tom Odell",
+      "has_synced": false,
+      "path": "select/pl_01_Another_Love_Tom_Odell.txt"
+    }
+  ]
+}
